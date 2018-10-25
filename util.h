@@ -1,9 +1,9 @@
 /**
-	CS 231 Project 2
+	CS 231 Project 3
 	util.h
 	Purpose: Header for several useful "utility functions" for the "Sea Battle!" game.
 	
-	@author Paul Zachos
+	@author Josh Warren
 	@version 1.0
 */
 
